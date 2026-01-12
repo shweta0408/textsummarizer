@@ -35,8 +35,6 @@ Run Streamlit App
 * Email Generation - Compose or Reply to mail
 * Post Generation - Linkedin Post or Tweets
 
-## Screenshots - 
-![image](https://github.com/sanketshinde3001/GenAI-Projects/assets/126979961/8f7580de-2efd-46da-a7ab-84b7bc3f4ea7)
 
 ## Connect Me!
 [Linkedin](https://www.linkedin.com/in/sanketshinde04/)
