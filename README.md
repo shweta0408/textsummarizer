@@ -37,5 +37,5 @@ Run Streamlit App
 
 
 ## Connect Me!
-[Linkedin](https://www.linkedin.com/in/sanketshinde04/)
-[Github](https://github.com/sanketshinde3001)
+[Linkedin](https://www.linkedin.com/in/shweta-mishra-4777681a4)
+[Github](https://github.com/shweta0408)
